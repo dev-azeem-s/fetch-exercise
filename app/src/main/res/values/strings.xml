@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FetchExcercise</string>
+    <string name="fetching_exercise">Fetching Exercise</string>
+    <string name="sort_by_name_only">Sort by Name only</string>
+    <string name="sort_by_name_including_number">Sort by Name including Number</string>
+    <string name="list_id">List ID:</string>
+    <string name="item_name">Item Name</string>
+</resources>
